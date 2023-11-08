@@ -1,0 +1,1 @@
+# Curso-closures-scope-js
